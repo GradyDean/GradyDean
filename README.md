@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GradyDean
-- 👀 I’m interested in ... Data Science!
-- 🌱 I’m currently learning ... R and SQL
+- 👀 I’m interested in ... Data Science and Cyber Security
+- 🌱 I’m currently learning ... R, SQL, Python, Swift
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... gradyblair816@gmail.com
 - 😄 Pronouns: ... He/Him
